@@ -1,0 +1,27 @@
+div {
+    background-color: pink;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+}
+
+h3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.imagen-de-gatos {
+    width: 155px;
+    border-width: 20px;
+    border-color: purple;
+    border-style: solid groove;
+}
+
+.bordes-redondeados {
+    border-radius: 65%;
+}
